@@ -1,0 +1,10 @@
+Steps to make Database first:
+
+1) First Make your own database.
+2) Create new WPF application.
+3) Create edmx file
+	right click application -> add -> new item -> go to Data -> 	ADO.Net EDM -> name = ProductDb -> select first option(database 	first) -> create new Connection -> file credentials -> test 			connection -> ok ->select your table and tick it and dont forget 	to Rebuild your application.
+4) Make UI jaese paper me poocha hai.
+5) Appna code likho Presentation layer wala.
+
+--------------------------------The End----------------------------------
